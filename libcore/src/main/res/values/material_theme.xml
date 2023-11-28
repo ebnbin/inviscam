@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorPinkFull" format="color"/>
+    <attr name="colorRedFull" format="color"/>
+    <attr name="colorOrangeFull" format="color"/>
+    <attr name="colorAmberFull" format="color"/>
+    <attr name="colorLimeFull" format="color"/>
+    <attr name="colorGreenFull" format="color"/>
+    <attr name="colorTealFull" format="color"/>
+    <attr name="colorCyanFull" format="color"/>
+    <attr name="colorLightBlueFull" format="color"/>
+    <attr name="colorIndigoFull" format="color"/>
+    <attr name="colorDeepPurpleFull" format="color"/>
+    <attr name="colorPurpleFull" format="color"/>
+    <attr name="colorPinkHalf" format="color"/>
+    <attr name="colorRedHalf" format="color"/>
+    <attr name="colorOrangeHalf" format="color"/>
+    <attr name="colorAmberHalf" format="color"/>
+    <attr name="colorLimeHalf" format="color"/>
+    <attr name="colorGreenHalf" format="color"/>
+    <attr name="colorTealHalf" format="color"/>
+    <attr name="colorCyanHalf" format="color"/>
+    <attr name="colorLightBlueHalf" format="color"/>
+    <attr name="colorIndigoHalf" format="color"/>
+    <attr name="colorDeepPurpleHalf" format="color"/>
+    <attr name="colorPurpleHalf" format="color"/>
+
+    <color name="material_pink_4_6">#171213</color>
+    <color name="material_pink_4_10">#201a1b</color>
+    <color name="material_pink_4_12">#241e1f</color>
+    <color name="material_pink_4_90">#ebe0e1</color>
+    <color name="material_pink_4_94">#f7ebec</color>
+    <color name="material_pink_4_98">#fff8f8</color>
+    <color name="material_pink_8_30">#514347</color>
+    <color name="material_pink_8_50">#837377</color>
+    <color name="material_pink_8_60">#9e8c90</color>
+    <color name="material_pink_8_80">#d5c2c6</color>
+    <color name="material_pink_8_90">#f2dde1</color>
+    <color name="material_pink_half_10">#3e001d</color>
+    <color name="material_pink_half_20">#600c33</color>
+    <color name="material_pink_half_30">#7e2549</color>
+    <color name="material_pink_half_40">#9b3d61</color>
+    <color name="material_pink_half_50">#ba567a</color>
+    <color name="material_pink_half_70">#f888ae</color>
+    <color name="material_pink_half_80">#ffb1c8</color>
+    <color name="material_pink_half_90">#ffd9e2</color>
+    <color name="material_pink_full_10">#3e001d</color>
+    <color name="material_pink_full_20">#650033</color>
+    <color name="material_pink_full_30">#8e004a</color>
+    <color name="material_pink_full_40">#b90063</color>
+    <color name="material_pink_full_50">#e7007d</color>
+    <color name="material_pink_full_70">#ff84af</color>
+    <color name="material_pink_full_80">#ffb1c8</color>
+    <color name="material_pink_full_90">#ffd9e2</color>
+
+    <color name="material_red_4_6">#181211</color>
+    <color name="material_red_4_10">#201a19</color>
+    <color name="material_red_4_12">#251e1d</color>
+    <color name="material_red_4_90">#ede0dd</color>
+    <color name="material_red_4_94">#f8ebe8</color>
+    <color name="material_red_4_98">#fff8f6</color>
+    <color name="material_red_8_30">#534340</color>
+    <color name="material_red_8_50">#85736f</color>
+    <color name="material_red_8_60">#a08c88</color>
+    <color name="material_red_8_80">#d8c2bd</color>
+    <color name="material_red_8_90">#f5ddd9</color>
+    <color name="material_red_half_10">#3e0400</color>
+    <color name="material_red_half_20">#611205</color>
+    <color name="material_red_half_30">#802818</color>
+    <color name="material_red_half_40">#a03f2d</color>
+    <color name="material_red_half_50">#c05742</color>
+    <color name="material_red_half_70">#ff8a73</color>
+    <color name="material_red_half_80">#ffb4a5</color>
+    <color name="material_red_half_90">#ffdad3</color>
+    <color name="material_red_full_10">#3e0400</color>
+    <color name="material_red_full_20">#650b00</color>
+    <color name="material_red_full_30">#8e1400</color>
+    <color name="material_red_full_40">#ba1d00</color>
+    <color name="material_red_full_50">#e72600</color>
+    <color name="material_red_full_70">#ff8a73</color>
+    <color name="material_red_full_80">#ffb4a5</color>
+    <color name="material_red_full_90">#ffdad3</color>
+
+    <color name="material_orange_4_6">#17120f</color>
+    <color name="material_orange_4_10">#201b17</color>
+    <color name="material_orange_4_12">#241f1b</color>
+    <color name="material_orange_4_90">#ece0da</color>
+    <color name="material_orange_4_94">#f7ece5</color>
+    <color name="material_orange_4_98">#fff8f5</color>
+    <color name="material_orange_8_30">#51443b</color>
+    <color name="material_orange_8_50">#837469</color>
+    <color name="material_orange_8_60">#9e8e82</color>
+    <color name="material_orange_8_80">#d6c3b6</color>
+    <color name="material_orange_8_90">#f3dfd1</color>
+    <color name="material_orange_half_10">#2e1500</color>
+    <color name="material_orange_half_20">#4c2700</color>
+    <color name="material_orange_half_30">#683c0f</color>
+    <color name="material_orange_half_40">#845325</color>
+    <color name="material_orange_half_50">#a16b3b</color>
+    <color name="material_orange_half_70">#dc9e69</color>
+    <color name="material_orange_half_80">#fab982</color>
+    <color name="material_orange_half_90">#ffdcc1</color>
+    <color name="material_orange_full_10">#2e1500</color>
+    <color name="material_orange_full_20">#4c2700</color>
+    <color name="material_orange_full_30">#6c3a00</color>
+    <color name="material_orange_full_40">#8f4e00</color>
+    <color name="material_orange_full_50">#b26300</color>
+    <color name="material_orange_full_70">#fe8f00</color>
+    <color name="material_orange_full_80">#ffb779</color>
+    <color name="material_orange_full_90">#ffdcc1</color>
+
+    <color name="material_amber_4_6">#15130e</color>
+    <color name="material_amber_4_10">#1e1b16</color>
+    <color name="material_amber_4_12">#221f1a</color>
+    <color name="material_amber_4_90">#e8e1d9</color>
+    <color name="material_amber_4_94">#f4ede4</color>
+    <color name="material_amber_4_98">#fff8f1</color>
+    <color name="material_amber_8_30">#4c4639</color>
+    <color name="material_amber_8_50">#7e7667</color>
+    <color name="material_amber_8_60">#989080</color>
+    <color name="material_amber_8_80">#cfc5b4</color>
+    <color name="material_amber_8_90">#ece1cf</color>
+    <color name="material_amber_half_10">#241a00</color>
+    <color name="material_amber_half_20">#3e2e00</color>
+    <color name="material_amber_half_30">#584405</color>
+    <color name="material_amber_half_40">#725c1d</color>
+    <color name="material_amber_half_50">#8c7434</color>
+    <color name="material_amber_half_70">#c4a862</color>
+    <color name="material_amber_half_80">#e1c47a</color>
+    <color name="material_amber_half_90">#ffdf93</color>
+    <color name="material_amber_full_10">#241a00</color>
+    <color name="material_amber_full_20">#3e2e00</color>
+    <color name="material_amber_full_30">#594400</color>
+    <color name="material_amber_full_40">#755b00</color>
+    <color name="material_amber_full_50">#937300</color>
+    <color name="material_amber_full_70">#d3a500</color>
+    <color name="material_amber_full_80">#f4c000</color>
+    <color name="material_amber_full_90">#ffdf92</color>
+
+    <color name="material_lime_4_6">#13140f</color>
+    <color name="material_lime_4_10">#1b1c17</color>
+    <color name="material_lime_4_12">#20201b</color>
+    <color name="material_lime_4_90">#e5e2da</color>
+    <color name="material_lime_4_94">#f0eee5</color>
+    <color name="material_lime_4_98">#fcf9f1</color>
+    <color name="material_lime_8_30">#46483b</color>
+    <color name="material_lime_8_50">#77786a</color>
+    <color name="material_lime_8_60">#919283</color>
+    <color name="material_lime_8_80">#c7c7b7</color>
+    <color name="material_lime_8_90">#e4e3d3</color>
+    <color name="material_lime_half_10">#181e00</color>
+    <color name="material_lime_half_20">#2c3400</color>
+    <color name="material_lime_half_30">#404c00</color>
+    <color name="material_lime_half_40">#586415</color>
+    <color name="material_lime_half_50">#707d2d</color>
+    <color name="material_lime_half_70">#a4b35c</color>
+    <color name="material_lime_half_80">#bfce74</color>
+    <color name="material_lime_half_90">#dbeb8d</color>
+    <color name="material_lime_full_10">#181e00</color>
+    <color name="material_lime_full_20">#2c3400</color>
+    <color name="material_lime_full_30">#404c00</color>
+    <color name="material_lime_full_40">#566500</color>
+    <color name="material_lime_full_50">#6d7f00</color>
+    <color name="material_lime_full_70">#9db600</color>
+    <color name="material_lime_full_80">#b7d300</color>
+    <color name="material_lime_full_90">#d1f100</color>
+
+    <color name="material_green_4_6">#111411</color>
+    <color name="material_green_4_10">#1a1c19</color>
+    <color name="material_green_4_12">#1e201d</color>
+    <color name="material_green_4_90">#e2e3dd</color>
+    <color name="material_green_4_94">#edeee9</color>
+    <color name="material_green_4_98">#f9faf4</color>
+    <color name="material_green_8_30">#424940</color>
+    <color name="material_green_8_50">#727970</color>
+    <color name="material_green_8_60">#8b9389</color>
+    <color name="material_green_8_80">#c1c9be</color>
+    <color name="material_green_8_90">#dde5d9</color>
+    <color name="material_green_half_10">#002108</color>
+    <color name="material_green_half_20">#003913</color>
+    <color name="material_green_half_30">#035320</color>
+    <color name="material_green_half_40">#266b35</color>
+    <color name="material_green_half_50">#41854c</color>
+    <color name="material_green_half_70">#75bb7c</color>
+    <color name="material_green_half_80">#8fd795</color>
+    <color name="material_green_half_90">#aaf4af</color>
+    <color name="material_green_full_10">#002108</color>
+    <color name="material_green_full_20">#003913</color>
+    <color name="material_green_full_30">#00531f</color>
+    <color name="material_green_full_40">#006e2c</color>
+    <color name="material_green_full_50">#008a39</color>
+    <color name="material_green_full_70">#00c555</color>
+    <color name="material_green_full_80">#00e563</color>
+    <color name="material_green_full_90">#68ff89</color>
+
+    <color name="material_teal_4_6">#101413</color>
+    <color name="material_teal_4_10">#191c1b</color>
+    <color name="material_teal_4_12">#1d201f</color>
+    <color name="material_teal_4_90">#e0e3e1</color>
+    <color name="material_teal_4_94">#eceeec</color>
+    <color name="material_teal_4_98">#f8faf7</color>
+    <color name="material_teal_8_30">#3f4946</color>
+    <color name="material_teal_8_50">#6f7976</color>
+    <color name="material_teal_8_60">#89938f</color>
+    <color name="material_teal_8_80">#bfc9c4</color>
+    <color name="material_teal_8_90">#dbe5e0</color>
+    <color name="material_teal_half_10">#00201a</color>
+    <color name="material_teal_half_20">#00382e</color>
+    <color name="material_teal_half_30">#015044</color>
+    <color name="material_teal_half_40">#27695c</color>
+    <color name="material_teal_half_50">#428274</color>
+    <color name="material_teal_half_70">#77b7a8</color>
+    <color name="material_teal_half_80">#92d3c3</color>
+    <color name="material_teal_half_90">#aef0de</color>
+    <color name="material_teal_full_10">#00201a</color>
+    <color name="material_teal_full_20">#00382e</color>
+    <color name="material_teal_full_30">#005144</color>
+    <color name="material_teal_full_40">#006b5b</color>
+    <color name="material_teal_full_50">#008673</color>
+    <color name="material_teal_full_70">#00c1a6</color>
+    <color name="material_teal_full_80">#00dfc0</color>
+    <color name="material_teal_full_90">#04fedb</color>
+
+    <color name="material_cyan_4_6">#101415</color>
+    <color name="material_cyan_4_10">#191c1d</color>
+    <color name="material_cyan_4_12">#1d2021</color>
+    <color name="material_cyan_4_90">#e1e3e3</color>
+    <color name="material_cyan_4_94">#eceeef</color>
+    <color name="material_cyan_4_98">#f8fafa</color>
+    <color name="material_cyan_8_30">#3f484a</color>
+    <color name="material_cyan_8_50">#6f797b</color>
+    <color name="material_cyan_8_60">#899294</color>
+    <color name="material_cyan_8_80">#bfc8ca</color>
+    <color name="material_cyan_8_90">#dbe4e6</color>
+    <color name="material_cyan_half_10">#001f24</color>
+    <color name="material_cyan_half_20">#00363d</color>
+    <color name="material_cyan_half_30">#0c4e57</color>
+    <color name="material_cyan_half_40">#2d666f</color>
+    <color name="material_cyan_half_50">#487f89</color>
+    <color name="material_cyan_half_70">#7db4be</color>
+    <color name="material_cyan_half_80">#98d0da</color>
+    <color name="material_cyan_half_90">#b3ecf6</color>
+    <color name="material_cyan_full_10">#001f24</color>
+    <color name="material_cyan_full_20">#00363d</color>
+    <color name="material_cyan_full_30">#004f58</color>
+    <color name="material_cyan_full_40">#006874</color>
+    <color name="material_cyan_full_50">#008392</color>
+    <color name="material_cyan_full_70">#00bcd1</color>
+    <color name="material_cyan_full_80">#00daf2</color>
+    <color name="material_cyan_full_90">#99f0ff</color>
+
+    <color name="material_light_blue_4_6">#111416</color>
+    <color name="material_light_blue_4_10">#191c1e</color>
+    <color name="material_light_blue_4_12">#1d2022</color>
+    <color name="material_light_blue_4_90">#e2e2e5</color>
+    <color name="material_light_blue_4_94">#edeef0</color>
+    <color name="material_light_blue_4_98">#f9f9fc</color>
+    <color name="material_light_blue_8_30">#41484d</color>
+    <color name="material_light_blue_8_50">#71787e</color>
+    <color name="material_light_blue_8_60">#8b9198</color>
+    <color name="material_light_blue_8_80">#c1c7ce</color>
+    <color name="material_light_blue_8_90">#dde3ea</color>
+    <color name="material_light_blue_half_10">#001e2e</color>
+    <color name="material_light_blue_half_20">#00344d</color>
+    <color name="material_light_blue_half_30">#1e4b65</color>
+    <color name="material_light_blue_half_40">#39637e</color>
+    <color name="material_light_blue_half_50">#527c98</color>
+    <color name="material_light_blue_half_70">#87b0cf</color>
+    <color name="material_light_blue_half_80">#a2cceb</color>
+    <color name="material_light_blue_half_90">#c8e6ff</color>
+    <color name="material_light_blue_full_10">#001e2e</color>
+    <color name="material_light_blue_full_20">#00344d</color>
+    <color name="material_light_blue_full_30">#004c6d</color>
+    <color name="material_light_blue_full_40">#006590</color>
+    <color name="material_light_blue_full_50">#007fb4</color>
+    <color name="material_light_blue_full_70">#11b6ff</color>
+    <color name="material_light_blue_full_80">#88ceff</color>
+    <color name="material_light_blue_full_90">#c8e6ff</color>
+
+    <color name="material_indigo_4_6">#131316</color>
+    <color name="material_indigo_4_10">#1b1b1f</color>
+    <color name="material_indigo_4_12">#1f1f23</color>
+    <color name="material_indigo_4_90">#e4e2e6</color>
+    <color name="material_indigo_4_94">#efedf1</color>
+    <color name="material_indigo_4_98">#fbf8fd</color>
+    <color name="material_indigo_8_30">#44464f</color>
+    <color name="material_indigo_8_50">#757780</color>
+    <color name="material_indigo_8_60">#8f9099</color>
+    <color name="material_indigo_8_80">#c5c6d0</color>
+    <color name="material_indigo_8_90">#e1e2ec</color>
+    <color name="material_indigo_half_10">#001847</color>
+    <color name="material_indigo_half_20">#152e62</color>
+    <color name="material_indigo_half_30">#2f457a</color>
+    <color name="material_indigo_half_40">#475d93</color>
+    <color name="material_indigo_half_50">#6076ae</color>
+    <color name="material_indigo_half_70">#94aae6</color>
+    <color name="material_indigo_half_80">#b1c5ff</color>
+    <color name="material_indigo_half_90">#dae2ff</color>
+    <color name="material_indigo_full_10">#001847</color>
+    <color name="material_indigo_full_20">#002c72</color>
+    <color name="material_indigo_full_30">#0040a0</color>
+    <color name="material_indigo_full_40">#0056d0</color>
+    <color name="material_indigo_full_50">#126eff</color>
+    <color name="material_indigo_full_70">#88a9ff</color>
+    <color name="material_indigo_full_80">#b1c5ff</color>
+    <color name="material_indigo_full_90">#dae2ff</color>
+
+    <color name="material_deep_purple_4_6">#141316</color>
+    <color name="material_deep_purple_4_10">#1c1b1e</color>
+    <color name="material_deep_purple_4_12">#211f22</color>
+    <color name="material_deep_purple_4_90">#e6e1e6</color>
+    <color name="material_deep_purple_4_94">#f2ecf1</color>
+    <color name="material_deep_purple_4_98">#fdf8fd</color>
+    <color name="material_deep_purple_8_30">#49454e</color>
+    <color name="material_deep_purple_8_50">#7a757f</color>
+    <color name="material_deep_purple_8_60">#948f99</color>
+    <color name="material_deep_purple_8_80">#cac4cf</color>
+    <color name="material_deep_purple_8_90">#e7e0eb</color>
+    <color name="material_deep_purple_half_10">#230556</color>
+    <color name="material_deep_purple_half_20">#38216b</color>
+    <color name="material_deep_purple_half_30">#4f3983</color>
+    <color name="material_deep_purple_half_40">#67519d</color>
+    <color name="material_deep_purple_half_50">#816ab8</color>
+    <color name="material_deep_purple_half_70">#b69ef0</color>
+    <color name="material_deep_purple_half_80">#d0bcff</color>
+    <color name="material_deep_purple_half_90">#e9ddff</color>
+    <color name="material_deep_purple_full_10">#23005c</color>
+    <color name="material_deep_purple_full_20">#3c0091</color>
+    <color name="material_deep_purple_full_30">#5600ca</color>
+    <color name="material_deep_purple_full_40">#7114ff</color>
+    <color name="material_deep_purple_full_50">#8851ff</color>
+    <color name="material_deep_purple_full_70">#b89bff</color>
+    <color name="material_deep_purple_full_80">#d0bcff</color>
+    <color name="material_deep_purple_full_90">#e9ddff</color>
+
+    <color name="material_purple_4_6">#161215</color>
+    <color name="material_purple_4_10">#1e1a1d</color>
+    <color name="material_purple_4_12">#221e21</color>
+    <color name="material_purple_4_90">#e9e0e4</color>
+    <color name="material_purple_4_94">#f4ebef</color>
+    <color name="material_purple_4_98">#fff7fa</color>
+    <color name="material_purple_8_30">#4d444c</color>
+    <color name="material_purple_8_50">#7f747c</color>
+    <color name="material_purple_8_60">#998d96</color>
+    <color name="material_purple_8_80">#d0c3cc</color>
+    <color name="material_purple_8_90">#eddee8</color>
+    <color name="material_purple_half_10">#36003d</color>
+    <color name="material_purple_half_20">#540e5c</color>
+    <color name="material_purple_half_30">#6f2a74</color>
+    <color name="material_purple_half_40">#8a428e</color>
+    <color name="material_purple_half_50">#a55ba9</color>
+    <color name="material_purple_half_70">#df8fe0</color>
+    <color name="material_purple_half_80">#fdaafe</color>
+    <color name="material_purple_half_90">#ffd6fb</color>
+    <color name="material_purple_full_10">#36003d</color>
+    <color name="material_purple_full_20">#590062</color>
+    <color name="material_purple_full_30">#7d008b</color>
+    <color name="material_purple_full_40">#a400b5</color>
+    <color name="material_purple_full_50">#cd00e2</color>
+    <color name="material_purple_full_70">#f779ff</color>
+    <color name="material_purple_full_80">#ffa9ff</color>
+    <color name="material_purple_full_90">#ffd6fb</color>
+
+    <color name="material_pink_full">@color/material_pink_full_50</color>
+
+    <color name="material_red_full">@color/material_red_full_50</color>
+
+    <color name="material_orange_full">@color/material_orange_full_50</color>
+
+    <color name="material_amber_full">@color/material_amber_full_50</color>
+
+    <color name="material_lime_full">@color/material_lime_full_50</color>
+
+    <color name="material_green_full">@color/material_green_full_50</color>
+
+    <color name="material_teal_full">@color/material_teal_full_50</color>
+
+    <color name="material_cyan_full">@color/material_cyan_full_50</color>
+
+    <color name="material_light_blue_full">@color/material_light_blue_full_50</color>
+
+    <color name="material_indigo_full">@color/material_indigo_full_50</color>
+
+    <color name="material_deep_purple_full">@color/material_deep_purple_full_50</color>
+
+    <color name="material_purple_full">@color/material_purple_full_50</color>
+
+    <color name="material_pink_half">@color/material_pink_half_50</color>
+
+    <color name="material_red_half">@color/material_red_half_50</color>
+
+    <color name="material_orange_half">@color/material_orange_half_50</color>
+
+    <color name="material_amber_half">@color/material_amber_half_50</color>
+
+    <color name="material_lime_half">@color/material_lime_half_50</color>
+
+    <color name="material_green_half">@color/material_green_half_50</color>
+
+    <color name="material_teal_half">@color/material_teal_half_50</color>
+
+    <color name="material_cyan_half">@color/material_cyan_half_50</color>
+
+    <color name="material_light_blue_half">@color/material_light_blue_half_50</color>
+
+    <color name="material_indigo_half">@color/material_indigo_half_50</color>
+
+    <color name="material_deep_purple_half">@color/material_deep_purple_half_50</color>
+
+    <color name="material_purple_half">@color/material_purple_half_50</color>
+
+    <style name="MaterialTheme.Base.Light" parent="@style/Theme.Material3.Light.NoActionBar">
+        <item name="colorSecondary">?attr/colorPrimary</item>
+        <item name="colorOnSecondary">?attr/colorOnPrimary</item>
+        <item name="colorSecondaryContainer">?attr/colorPrimaryContainer</item>
+        <item name="colorOnSecondaryContainer">?attr/colorOnPrimaryContainer</item>
+        <item name="colorTertiary">?attr/colorPrimary</item>
+        <item name="colorOnTertiary">?attr/colorOnPrimary</item>
+        <item name="colorTertiaryContainer">?attr/colorPrimaryContainer</item>
+        <item name="colorOnTertiaryContainer">?attr/colorOnPrimaryContainer</item>
+        <item name="colorSurface">?android:attr/colorBackground</item>
+        <item name="colorOnSurface">?attr/colorOnBackground</item>
+        <item name="android:statusBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+        <item name="colorPinkFull">@color/material_pink_full_50</item>
+        <item name="colorRedFull">@color/material_red_full_50</item>
+        <item name="colorOrangeFull">@color/material_orange_full_50</item>
+        <item name="colorAmberFull">@color/material_amber_full_50</item>
+        <item name="colorLimeFull">@color/material_lime_full_50</item>
+        <item name="colorGreenFull">@color/material_green_full_50</item>
+        <item name="colorTealFull">@color/material_teal_full_50</item>
+        <item name="colorCyanFull">@color/material_cyan_full_50</item>
+        <item name="colorLightBlueFull">@color/material_light_blue_full_50</item>
+        <item name="colorIndigoFull">@color/material_indigo_full_50</item>
+        <item name="colorDeepPurpleFull">@color/material_deep_purple_full_50</item>
+        <item name="colorPurpleFull">@color/material_purple_full_50</item>
+        <item name="colorPinkHalf">@color/material_pink_half_50</item>
+        <item name="colorRedHalf">@color/material_red_half_50</item>
+        <item name="colorOrangeHalf">@color/material_orange_half_50</item>
+        <item name="colorAmberHalf">@color/material_amber_half_50</item>
+        <item name="colorLimeHalf">@color/material_lime_half_50</item>
+        <item name="colorGreenHalf">@color/material_green_half_50</item>
+        <item name="colorTealHalf">@color/material_teal_half_50</item>
+        <item name="colorCyanHalf">@color/material_cyan_half_50</item>
+        <item name="colorLightBlueHalf">@color/material_light_blue_half_50</item>
+        <item name="colorIndigoHalf">@color/material_indigo_half_50</item>
+        <item name="colorDeepPurpleHalf">@color/material_deep_purple_half_50</item>
+        <item name="colorPurpleHalf">@color/material_purple_half_50</item>
+    </style>
+
+    <style name="MaterialTheme.Base.Dark" parent="@style/Theme.Material3.Dark.NoActionBar">
+        <item name="colorSecondary">?attr/colorPrimary</item>
+        <item name="colorOnSecondary">?attr/colorOnPrimary</item>
+        <item name="colorSecondaryContainer">?attr/colorPrimaryContainer</item>
+        <item name="colorOnSecondaryContainer">?attr/colorOnPrimaryContainer</item>
+        <item name="colorTertiary">?attr/colorPrimary</item>
+        <item name="colorOnTertiary">?attr/colorOnPrimary</item>
+        <item name="colorTertiaryContainer">?attr/colorPrimaryContainer</item>
+        <item name="colorOnTertiaryContainer">?attr/colorOnPrimaryContainer</item>
+        <item name="colorSurface">?android:attr/colorBackground</item>
+        <item name="colorOnSurface">?attr/colorOnBackground</item>
+        <item name="android:statusBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+        <item name="colorPinkFull">@color/material_pink_full_70</item>
+        <item name="colorRedFull">@color/material_red_full_70</item>
+        <item name="colorOrangeFull">@color/material_orange_full_70</item>
+        <item name="colorAmberFull">@color/material_amber_full_70</item>
+        <item name="colorLimeFull">@color/material_lime_full_70</item>
+        <item name="colorGreenFull">@color/material_green_full_70</item>
+        <item name="colorTealFull">@color/material_teal_full_70</item>
+        <item name="colorCyanFull">@color/material_cyan_full_70</item>
+        <item name="colorLightBlueFull">@color/material_light_blue_full_70</item>
+        <item name="colorIndigoFull">@color/material_indigo_full_70</item>
+        <item name="colorDeepPurpleFull">@color/material_deep_purple_full_70</item>
+        <item name="colorPurpleFull">@color/material_purple_full_70</item>
+        <item name="colorPinkHalf">@color/material_pink_half_70</item>
+        <item name="colorRedHalf">@color/material_red_half_70</item>
+        <item name="colorOrangeHalf">@color/material_orange_half_70</item>
+        <item name="colorAmberHalf">@color/material_amber_half_70</item>
+        <item name="colorLimeHalf">@color/material_lime_half_70</item>
+        <item name="colorGreenHalf">@color/material_green_half_70</item>
+        <item name="colorTealHalf">@color/material_teal_half_70</item>
+        <item name="colorCyanHalf">@color/material_cyan_half_70</item>
+        <item name="colorLightBlueHalf">@color/material_light_blue_half_70</item>
+        <item name="colorIndigoHalf">@color/material_indigo_half_70</item>
+        <item name="colorDeepPurpleHalf">@color/material_deep_purple_half_70</item>
+        <item name="colorPurpleHalf">@color/material_purple_half_70</item>
+    </style>
+
+    <style name="MaterialTheme.Light" parent="@style/MaterialTheme.Base.Light"/>
+
+    <style name="MaterialTheme.Dark" parent="@style/MaterialTheme.Base.Dark"/>
+
+    <style name="MaterialTheme.Pink.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_pink_8_50</item>
+        <item name="android:colorBackground">@color/material_pink_4_98</item>
+        <item name="colorOnBackground">@color/material_pink_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_pink_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_pink_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_pink_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_pink_8_60</item>
+        <item name="android:colorBackground">@color/material_pink_4_6</item>
+        <item name="colorOnBackground">@color/material_pink_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_pink_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_pink_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_pink_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_red_8_50</item>
+        <item name="android:colorBackground">@color/material_red_4_98</item>
+        <item name="colorOnBackground">@color/material_red_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_red_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_red_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_red_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_red_8_60</item>
+        <item name="android:colorBackground">@color/material_red_4_6</item>
+        <item name="colorOnBackground">@color/material_red_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_red_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_red_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_red_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_orange_8_50</item>
+        <item name="android:colorBackground">@color/material_orange_4_98</item>
+        <item name="colorOnBackground">@color/material_orange_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_orange_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_orange_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_orange_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_orange_8_60</item>
+        <item name="android:colorBackground">@color/material_orange_4_6</item>
+        <item name="colorOnBackground">@color/material_orange_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_orange_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_orange_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_orange_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_amber_8_50</item>
+        <item name="android:colorBackground">@color/material_amber_4_98</item>
+        <item name="colorOnBackground">@color/material_amber_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_amber_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_amber_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_amber_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_amber_8_60</item>
+        <item name="android:colorBackground">@color/material_amber_4_6</item>
+        <item name="colorOnBackground">@color/material_amber_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_amber_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_amber_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_amber_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_lime_8_50</item>
+        <item name="android:colorBackground">@color/material_lime_4_98</item>
+        <item name="colorOnBackground">@color/material_lime_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_lime_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_lime_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_lime_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_lime_8_60</item>
+        <item name="android:colorBackground">@color/material_lime_4_6</item>
+        <item name="colorOnBackground">@color/material_lime_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_lime_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_lime_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_lime_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_green_8_50</item>
+        <item name="android:colorBackground">@color/material_green_4_98</item>
+        <item name="colorOnBackground">@color/material_green_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_green_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_green_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_green_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_green_8_60</item>
+        <item name="android:colorBackground">@color/material_green_4_6</item>
+        <item name="colorOnBackground">@color/material_green_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_green_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_green_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_green_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_teal_8_50</item>
+        <item name="android:colorBackground">@color/material_teal_4_98</item>
+        <item name="colorOnBackground">@color/material_teal_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_teal_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_teal_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_teal_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_teal_8_60</item>
+        <item name="android:colorBackground">@color/material_teal_4_6</item>
+        <item name="colorOnBackground">@color/material_teal_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_teal_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_teal_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_teal_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_cyan_8_50</item>
+        <item name="android:colorBackground">@color/material_cyan_4_98</item>
+        <item name="colorOnBackground">@color/material_cyan_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_cyan_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_cyan_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_cyan_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_cyan_8_60</item>
+        <item name="android:colorBackground">@color/material_cyan_4_6</item>
+        <item name="colorOnBackground">@color/material_cyan_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_cyan_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_cyan_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_cyan_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_light_blue_8_50</item>
+        <item name="android:colorBackground">@color/material_light_blue_4_98</item>
+        <item name="colorOnBackground">@color/material_light_blue_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_light_blue_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_light_blue_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_light_blue_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_light_blue_8_60</item>
+        <item name="android:colorBackground">@color/material_light_blue_4_6</item>
+        <item name="colorOnBackground">@color/material_light_blue_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_light_blue_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_light_blue_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_light_blue_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_indigo_8_50</item>
+        <item name="android:colorBackground">@color/material_indigo_4_98</item>
+        <item name="colorOnBackground">@color/material_indigo_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_indigo_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_indigo_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_indigo_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_indigo_8_60</item>
+        <item name="android:colorBackground">@color/material_indigo_4_6</item>
+        <item name="colorOnBackground">@color/material_indigo_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_indigo_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_indigo_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_indigo_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_deep_purple_8_50</item>
+        <item name="android:colorBackground">@color/material_deep_purple_4_98</item>
+        <item name="colorOnBackground">@color/material_deep_purple_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_deep_purple_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_deep_purple_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_deep_purple_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_deep_purple_8_60</item>
+        <item name="android:colorBackground">@color/material_deep_purple_4_6</item>
+        <item name="colorOnBackground">@color/material_deep_purple_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_deep_purple_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_deep_purple_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_deep_purple_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Base.Light" parent="@style/MaterialTheme.Light">
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOutline">@color/material_purple_8_50</item>
+        <item name="android:colorBackground">@color/material_purple_4_98</item>
+        <item name="colorOnBackground">@color/material_purple_4_10</item>
+        <item name="colorSurfaceVariant">@color/material_purple_8_90</item>
+        <item name="colorOnSurfaceVariant">@color/material_purple_8_30</item>
+        <item name="colorSurfaceContainer">@color/material_purple_4_94</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Base.Dark" parent="@style/MaterialTheme.Dark">
+        <item name="colorOutline">@color/material_purple_8_60</item>
+        <item name="android:colorBackground">@color/material_purple_4_6</item>
+        <item name="colorOnBackground">@color/material_purple_4_90</item>
+        <item name="colorSurfaceVariant">@color/material_purple_8_30</item>
+        <item name="colorOnSurfaceVariant">@color/material_purple_8_80</item>
+        <item name="colorSurfaceContainer">@color/material_purple_4_12</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Full.Light" parent="@style/MaterialTheme.Pink.Base.Light">
+        <item name="colorPrimary">@color/material_pink_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_pink_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_pink_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Full.Dark" parent="@style/MaterialTheme.Pink.Base.Dark">
+        <item name="colorPrimary">@color/material_pink_full_80</item>
+        <item name="colorOnPrimary">@color/material_pink_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_pink_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_pink_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Full.Light" parent="@style/MaterialTheme.Red.Base.Light">
+        <item name="colorPrimary">@color/material_red_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_red_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_red_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Full.Dark" parent="@style/MaterialTheme.Red.Base.Dark">
+        <item name="colorPrimary">@color/material_red_full_80</item>
+        <item name="colorOnPrimary">@color/material_red_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_red_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_red_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Full.Light" parent="@style/MaterialTheme.Orange.Base.Light">
+        <item name="colorPrimary">@color/material_orange_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_orange_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_orange_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Full.Dark" parent="@style/MaterialTheme.Orange.Base.Dark">
+        <item name="colorPrimary">@color/material_orange_full_80</item>
+        <item name="colorOnPrimary">@color/material_orange_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_orange_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_orange_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Full.Light" parent="@style/MaterialTheme.Amber.Base.Light">
+        <item name="colorPrimary">@color/material_amber_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_amber_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_amber_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Full.Dark" parent="@style/MaterialTheme.Amber.Base.Dark">
+        <item name="colorPrimary">@color/material_amber_full_80</item>
+        <item name="colorOnPrimary">@color/material_amber_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_amber_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_amber_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Full.Light" parent="@style/MaterialTheme.Lime.Base.Light">
+        <item name="colorPrimary">@color/material_lime_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_lime_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_lime_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Full.Dark" parent="@style/MaterialTheme.Lime.Base.Dark">
+        <item name="colorPrimary">@color/material_lime_full_80</item>
+        <item name="colorOnPrimary">@color/material_lime_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_lime_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_lime_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Full.Light" parent="@style/MaterialTheme.Green.Base.Light">
+        <item name="colorPrimary">@color/material_green_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_green_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_green_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Full.Dark" parent="@style/MaterialTheme.Green.Base.Dark">
+        <item name="colorPrimary">@color/material_green_full_80</item>
+        <item name="colorOnPrimary">@color/material_green_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_green_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_green_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Full.Light" parent="@style/MaterialTheme.Teal.Base.Light">
+        <item name="colorPrimary">@color/material_teal_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_teal_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_teal_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Full.Dark" parent="@style/MaterialTheme.Teal.Base.Dark">
+        <item name="colorPrimary">@color/material_teal_full_80</item>
+        <item name="colorOnPrimary">@color/material_teal_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_teal_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_teal_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Full.Light" parent="@style/MaterialTheme.Cyan.Base.Light">
+        <item name="colorPrimary">@color/material_cyan_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_cyan_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_cyan_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Full.Dark" parent="@style/MaterialTheme.Cyan.Base.Dark">
+        <item name="colorPrimary">@color/material_cyan_full_80</item>
+        <item name="colorOnPrimary">@color/material_cyan_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_cyan_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_cyan_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Full.Light" parent="@style/MaterialTheme.LightBlue.Base.Light">
+        <item name="colorPrimary">@color/material_light_blue_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_light_blue_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_light_blue_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Full.Dark" parent="@style/MaterialTheme.LightBlue.Base.Dark">
+        <item name="colorPrimary">@color/material_light_blue_full_80</item>
+        <item name="colorOnPrimary">@color/material_light_blue_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_light_blue_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_light_blue_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Full.Light" parent="@style/MaterialTheme.Indigo.Base.Light">
+        <item name="colorPrimary">@color/material_indigo_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_indigo_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_indigo_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Full.Dark" parent="@style/MaterialTheme.Indigo.Base.Dark">
+        <item name="colorPrimary">@color/material_indigo_full_80</item>
+        <item name="colorOnPrimary">@color/material_indigo_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_indigo_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_indigo_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Full.Light" parent="@style/MaterialTheme.DeepPurple.Base.Light">
+        <item name="colorPrimary">@color/material_deep_purple_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_deep_purple_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_deep_purple_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Full.Dark" parent="@style/MaterialTheme.DeepPurple.Base.Dark">
+        <item name="colorPrimary">@color/material_deep_purple_full_80</item>
+        <item name="colorOnPrimary">@color/material_deep_purple_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_deep_purple_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_deep_purple_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Full.Light" parent="@style/MaterialTheme.Purple.Base.Light">
+        <item name="colorPrimary">@color/material_purple_full_40</item>
+        <item name="colorPrimaryContainer">@color/material_purple_full_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_purple_full_10</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Full.Dark" parent="@style/MaterialTheme.Purple.Base.Dark">
+        <item name="colorPrimary">@color/material_purple_full_80</item>
+        <item name="colorOnPrimary">@color/material_purple_full_20</item>
+        <item name="colorPrimaryContainer">@color/material_purple_full_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_purple_full_90</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Half.Light" parent="@style/MaterialTheme.Pink.Base.Light">
+        <item name="colorPrimary">@color/material_pink_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_pink_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_pink_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Half.Dark" parent="@style/MaterialTheme.Pink.Base.Dark">
+        <item name="colorPrimary">@color/material_pink_half_80</item>
+        <item name="colorOnPrimary">@color/material_pink_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_pink_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_pink_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Half.Light" parent="@style/MaterialTheme.Red.Base.Light">
+        <item name="colorPrimary">@color/material_red_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_red_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_red_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Red.Half.Dark" parent="@style/MaterialTheme.Red.Base.Dark">
+        <item name="colorPrimary">@color/material_red_half_80</item>
+        <item name="colorOnPrimary">@color/material_red_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_red_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_red_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Half.Light" parent="@style/MaterialTheme.Orange.Base.Light">
+        <item name="colorPrimary">@color/material_orange_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_orange_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_orange_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Orange.Half.Dark" parent="@style/MaterialTheme.Orange.Base.Dark">
+        <item name="colorPrimary">@color/material_orange_half_80</item>
+        <item name="colorOnPrimary">@color/material_orange_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_orange_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_orange_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Half.Light" parent="@style/MaterialTheme.Amber.Base.Light">
+        <item name="colorPrimary">@color/material_amber_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_amber_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_amber_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Amber.Half.Dark" parent="@style/MaterialTheme.Amber.Base.Dark">
+        <item name="colorPrimary">@color/material_amber_half_80</item>
+        <item name="colorOnPrimary">@color/material_amber_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_amber_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_amber_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Half.Light" parent="@style/MaterialTheme.Lime.Base.Light">
+        <item name="colorPrimary">@color/material_lime_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_lime_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_lime_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Lime.Half.Dark" parent="@style/MaterialTheme.Lime.Base.Dark">
+        <item name="colorPrimary">@color/material_lime_half_80</item>
+        <item name="colorOnPrimary">@color/material_lime_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_lime_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_lime_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Half.Light" parent="@style/MaterialTheme.Green.Base.Light">
+        <item name="colorPrimary">@color/material_green_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_green_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_green_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Green.Half.Dark" parent="@style/MaterialTheme.Green.Base.Dark">
+        <item name="colorPrimary">@color/material_green_half_80</item>
+        <item name="colorOnPrimary">@color/material_green_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_green_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_green_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Half.Light" parent="@style/MaterialTheme.Teal.Base.Light">
+        <item name="colorPrimary">@color/material_teal_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_teal_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_teal_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Teal.Half.Dark" parent="@style/MaterialTheme.Teal.Base.Dark">
+        <item name="colorPrimary">@color/material_teal_half_80</item>
+        <item name="colorOnPrimary">@color/material_teal_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_teal_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_teal_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Half.Light" parent="@style/MaterialTheme.Cyan.Base.Light">
+        <item name="colorPrimary">@color/material_cyan_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_cyan_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_cyan_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Cyan.Half.Dark" parent="@style/MaterialTheme.Cyan.Base.Dark">
+        <item name="colorPrimary">@color/material_cyan_half_80</item>
+        <item name="colorOnPrimary">@color/material_cyan_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_cyan_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_cyan_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Half.Light" parent="@style/MaterialTheme.LightBlue.Base.Light">
+        <item name="colorPrimary">@color/material_light_blue_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_light_blue_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_light_blue_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.LightBlue.Half.Dark" parent="@style/MaterialTheme.LightBlue.Base.Dark">
+        <item name="colorPrimary">@color/material_light_blue_half_80</item>
+        <item name="colorOnPrimary">@color/material_light_blue_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_light_blue_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_light_blue_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Half.Light" parent="@style/MaterialTheme.Indigo.Base.Light">
+        <item name="colorPrimary">@color/material_indigo_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_indigo_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_indigo_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Indigo.Half.Dark" parent="@style/MaterialTheme.Indigo.Base.Dark">
+        <item name="colorPrimary">@color/material_indigo_half_80</item>
+        <item name="colorOnPrimary">@color/material_indigo_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_indigo_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_indigo_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Half.Light" parent="@style/MaterialTheme.DeepPurple.Base.Light">
+        <item name="colorPrimary">@color/material_deep_purple_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_deep_purple_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_deep_purple_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.DeepPurple.Half.Dark" parent="@style/MaterialTheme.DeepPurple.Base.Dark">
+        <item name="colorPrimary">@color/material_deep_purple_half_80</item>
+        <item name="colorOnPrimary">@color/material_deep_purple_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_deep_purple_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_deep_purple_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Half.Light" parent="@style/MaterialTheme.Purple.Base.Light">
+        <item name="colorPrimary">@color/material_purple_half_40</item>
+        <item name="colorPrimaryContainer">@color/material_purple_half_90</item>
+        <item name="colorOnPrimaryContainer">@color/material_purple_half_10</item>
+    </style>
+
+    <style name="MaterialTheme.Purple.Half.Dark" parent="@style/MaterialTheme.Purple.Base.Dark">
+        <item name="colorPrimary">@color/material_purple_half_80</item>
+        <item name="colorOnPrimary">@color/material_purple_half_20</item>
+        <item name="colorPrimaryContainer">@color/material_purple_half_30</item>
+        <item name="colorOnPrimaryContainer">@color/material_purple_half_90</item>
+    </style>
+
+    <style name="MaterialTheme.Pink.Full.DayNight" parent="@style/MaterialTheme.Pink.Full.Light"/>
+
+    <style name="MaterialTheme.Red.Full.DayNight" parent="@style/MaterialTheme.Red.Full.Light"/>
+
+    <style name="MaterialTheme.Orange.Full.DayNight" parent="@style/MaterialTheme.Orange.Full.Light"/>
+
+    <style name="MaterialTheme.Amber.Full.DayNight" parent="@style/MaterialTheme.Amber.Full.Light"/>
+
+    <style name="MaterialTheme.Lime.Full.DayNight" parent="@style/MaterialTheme.Lime.Full.Light"/>
+
+    <style name="MaterialTheme.Green.Full.DayNight" parent="@style/MaterialTheme.Green.Full.Light"/>
+
+    <style name="MaterialTheme.Teal.Full.DayNight" parent="@style/MaterialTheme.Teal.Full.Light"/>
+
+    <style name="MaterialTheme.Cyan.Full.DayNight" parent="@style/MaterialTheme.Cyan.Full.Light"/>
+
+    <style name="MaterialTheme.LightBlue.Full.DayNight" parent="@style/MaterialTheme.LightBlue.Full.Light"/>
+
+    <style name="MaterialTheme.Indigo.Full.DayNight" parent="@style/MaterialTheme.Indigo.Full.Light"/>
+
+    <style name="MaterialTheme.DeepPurple.Full.DayNight" parent="@style/MaterialTheme.DeepPurple.Full.Light"/>
+
+    <style name="MaterialTheme.Purple.Full.DayNight" parent="@style/MaterialTheme.Purple.Full.Light"/>
+
+    <style name="MaterialTheme.Pink.Half.DayNight" parent="@style/MaterialTheme.Pink.Half.Light"/>
+
+    <style name="MaterialTheme.Red.Half.DayNight" parent="@style/MaterialTheme.Red.Half.Light"/>
+
+    <style name="MaterialTheme.Orange.Half.DayNight" parent="@style/MaterialTheme.Orange.Half.Light"/>
+
+    <style name="MaterialTheme.Amber.Half.DayNight" parent="@style/MaterialTheme.Amber.Half.Light"/>
+
+    <style name="MaterialTheme.Lime.Half.DayNight" parent="@style/MaterialTheme.Lime.Half.Light"/>
+
+    <style name="MaterialTheme.Green.Half.DayNight" parent="@style/MaterialTheme.Green.Half.Light"/>
+
+    <style name="MaterialTheme.Teal.Half.DayNight" parent="@style/MaterialTheme.Teal.Half.Light"/>
+
+    <style name="MaterialTheme.Cyan.Half.DayNight" parent="@style/MaterialTheme.Cyan.Half.Light"/>
+
+    <style name="MaterialTheme.LightBlue.Half.DayNight" parent="@style/MaterialTheme.LightBlue.Half.Light"/>
+
+    <style name="MaterialTheme.Indigo.Half.DayNight" parent="@style/MaterialTheme.Indigo.Half.Light"/>
+
+    <style name="MaterialTheme.DeepPurple.Half.DayNight" parent="@style/MaterialTheme.DeepPurple.Half.Light"/>
+
+    <style name="MaterialTheme.Purple.Half.DayNight" parent="@style/MaterialTheme.Purple.Half.Light"/>
+</resources>

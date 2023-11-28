@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="pref_fab_help">@drawable/material_help</drawable>
+    <drawable name="pref_fab_x">@drawable/material_swap_horiz</drawable>
+    <drawable name="pref_fab_y">@drawable/material_swap_vert</drawable>
+    <drawable name="pref_fab_idle_timeout">@drawable/material_timelapse</drawable>
+    <drawable name="pref_fab_idle_alpha">@drawable/material_opacity</drawable>
+    <drawable name="pref_fab_open_menu_gesture">@drawable/material_touch_app</drawable>
+    <drawable name="pref_fab_single_tap_action">@drawable/material_left_click</drawable>
+    <drawable name="pref_fab_double_tap_action">@drawable/material_ads_click</drawable>
+    <drawable name="pref_fab_long_press_action">@drawable/material_adjust</drawable>
+    <drawable name="pref_fab_long_press_up_action">@drawable/material_keyboard_arrow_up</drawable>
+    <drawable name="pref_fab_long_press_extra_action">@drawable/material_nest_wake_on_press</drawable>
+    <drawable name="pref_fab_double_long_press_action">@drawable/material_target</drawable>
+    <drawable name="pref_fab_double_long_press_up_action">@drawable/material_keyboard_double_arrow_up</drawable>
+    <drawable name="pref_fab_double_long_press_extra_action">@drawable/material_nest_wake_on_press</drawable>
+
+    <drawable name="pref_help">@drawable/material_help</drawable>
+    <drawable name="pref_lens_facing_off">@drawable/material_camera_rear</drawable>
+    <drawable name="pref_lens_facing_on">@drawable/material_camera_front</drawable>
+    <drawable name="pref_zoom">@drawable/material_zoom_in</drawable>
+    <drawable name="pref_preview_mode">@drawable/material_planner_banner_ad_pt</drawable>
+    <drawable name="pref_capture_mode">@drawable/material_videocam</drawable>
+    <drawable name="pref_sleep_mode_timeout">@drawable/material_timelapse</drawable>
+
+    <drawable name="pref_preview_ratio">@drawable/material_aspect_ratio</drawable>
+    <drawable name="pref_preview_enable_out">@drawable/material_fit_screen</drawable>
+    <drawable name="pref_preview_size">@drawable/material_resize</drawable>
+    <drawable name="pref_preview_x">@drawable/material_swap_horiz</drawable>
+    <drawable name="pref_preview_y">@drawable/material_swap_vert</drawable>
+    <drawable name="pref_preview_alpha">@drawable/material_opacity</drawable>
+    <drawable name="pref_preview_enable_touch">@drawable/material_pan_tool_alt</drawable>
+    <drawable name="pref_preview_single_tap_action">@drawable/material_left_click</drawable>
+    <drawable name="pref_preview_double_tap_action">@drawable/material_ads_click</drawable>
+    <drawable name="pref_preview_long_press_action">@drawable/material_adjust</drawable>
+    <drawable name="pref_preview_long_press_up_action">@drawable/material_keyboard_arrow_up</drawable>
+    <drawable name="pref_preview_double_long_press_action">@drawable/material_target</drawable>
+    <drawable name="pref_preview_double_long_press_up_action">@drawable/material_keyboard_double_arrow_up</drawable>
+    <drawable name="pref_preview_enable_move">@drawable/material_swipe</drawable>
+    <drawable name="pref_preview_scale_action">@drawable/material_pinch_zoom_out</drawable>
+</resources>

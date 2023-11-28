@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capture_mode_photo">Photo capture</string>
+    <string name="capture_mode_video">Video capture</string>
+    <string name="capture_mode_photo_and_video">Photo and video capture (May cause camera error, only supported on some devices)</string>
+
+    <string name="fab_idle_timeout_immediately">Immediately</string>
+    <string name="fab_idle_timeout_second_1">1 second</string>
+    <string name="fab_idle_timeout_second_2">2 seconds</string>
+    <string name="fab_idle_timeout_second_3">3 seconds</string>
+    <string name="fab_idle_timeout_second_5">5 seconds</string>
+    <string name="fab_idle_timeout_second_10">10 seconds</string>
+    <string name="fab_idle_timeout_second_20">20 seconds</string>
+    <string name="fab_idle_timeout_second_30">30 seconds</string>
+    <string name="fab_idle_timeout_minute_1">1 minute</string>
+    <string name="fab_idle_timeout_minute_2">2 minutes</string>
+    <string name="fab_idle_timeout_minute_3">3 minutes</string>
+    <string name="fab_idle_timeout_never">Never</string>
+
+    <string name="fab_long_press_extra_action_none">None</string>
+    <string name="fab_long_press_extra_action_hide_fab">Hide FAB until long press release</string>
+    <string name="fab_long_press_extra_action_keep_awake">Keep camera awake until long press release</string>
+    <string name="fab_long_press_extra_action_hide_fab_and_keep_awake">Hide FAB and keep camera awake until long press release</string>
+
+    <string name="gesture_single_tap">Single tap</string>
+    <string name="gesture_double_tap">Double tap</string>
+    <string name="gesture_long_press">Long press</string>
+    <string name="gesture_long_press_up">Long press release</string>
+    <string name="gesture_double_long_press">Double long press</string>
+    <string name="gesture_double_long_press_up">Double long press release</string>
+
+    <string name="gesture_action_toggle_capture_mode">Toggle photo/video capture mode</string>
+    <string name="gesture_action_take_picture">Take picture</string>
+    <string name="gesture_action_start_recording_video">Start recording video</string>
+    <string name="gesture_action_stop_recording_video">Stop recording video</string>
+    <string name="gesture_action_toggle_recording_video">Start/stop recording video</string>
+    <string name="gesture_action_capture">Take picture in photo capture mode, or start/stop recording video in video capture mode</string>
+    <string name="gesture_action_enter_sleep_mode">Enter sleep mode</string>
+    <string name="gesture_action_exit_sleep_mode">Exit sleep mode</string>
+    <string name="gesture_action_toggle_sleep_mode">Toggle sleep mode</string>
+    <string name="gesture_action_open_app">Return to app</string>
+    <string name="gesture_action_stop_service">Stop camera service</string>
+    <string name="gesture_action_none">None</string>
+
+    <string name="preview_mode_preview_and_capture">Preview and capture</string>
+    <string name="preview_mode_preview_only">Preview only</string>
+    <string name="preview_mode_capture_only">Capture only</string>
+
+    <string name="preview_ratio_match_screen">Match screen ratio</string>
+    <string name="preview_ratio_4_3">4:3</string>
+    <string name="preview_ratio_16_9">16:9</string>
+    <string name="preview_ratio_1_1">1:1</string>
+
+    <string name="preview_scale_action_window_size">Change preview window size</string>
+    <string name="preview_scale_action_camera_zoom">Change camera zoom</string>
+    <string name="preview_scale_action_none">None</string>
+
+    <string name="profile_picture_in_picture">Picture-in-picture</string>
+    <string name="profile_picture_in_picture_summary">Display a small window over other apps for camera preview. You can adjust the window size and position, and control camera capturing through the Floating Action Button (FAB).</string>
+    <string name="profile_wallpaper">Live wallpaper</string>
+    <string name="profile_wallpaper_summary">Use the preview image of the rear camera as a live dynamic wallpaper. You can adjust the opacity of this preview.</string>
+    <string name="profile_mirror">Mirror</string>
+    <string name="profile_mirror_summary">Press and hold the Floating Action Button (FAB) to display a fullscreen mirror.</string>
+    <string name="profile_magnifier">Magnifier</string>
+    <string name="profile_magnifier_summary">Zoom in or out using pinch-to-zoom gesture.</string>
+    <string name="profile_candid">Candid capture</string>
+    <string name="profile_candid_summary">By default, press and hold the FAB to activate the camera and start previewing, and release your finger to capture a candid shot. After the capture, the camera automatically enters sleep mode, ready for the next candid moment.</string>
+    <string name="profile_custom">Custom</string>
+    <string name="profile_custom_summary">Customize settings according to your needs.</string>
+
+    <string name="profile_settings_preference_fab">FAB</string>
+    <string name="profile_settings_preference_camera">Camera</string>
+    <string name="profile_settings_preference_preview">Preview</string>
+
+    <string name="sleep_mode_timeout_immediately">Immediately</string>
+    <string name="sleep_mode_timeout_second_1">1 second</string>
+    <string name="sleep_mode_timeout_second_2">2 seconds</string>
+    <string name="sleep_mode_timeout_second_3">3 seconds</string>
+    <string name="sleep_mode_timeout_second_5">5 seconds</string>
+    <string name="sleep_mode_timeout_second_10">10 seconds</string>
+    <string name="sleep_mode_timeout_second_20">20 seconds</string>
+    <string name="sleep_mode_timeout_second_30">30 seconds</string>
+    <string name="sleep_mode_timeout_minute_1">1 minute</string>
+    <string name="sleep_mode_timeout_minute_2">2 minutes</string>
+    <string name="sleep_mode_timeout_minute_3">3 minutes</string>
+    <string name="sleep_mode_timeout_never">Never</string>
+</resources>

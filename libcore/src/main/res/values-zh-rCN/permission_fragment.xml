@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_fragment_camera">相机</string>
+    <string name="permission_fragment_post_notifications">通知</string>
+    <string name="permission_fragment_record_audio">麦克风</string>
+    <string name="permission_fragment_system_alert_window">显示在其他应用的上层</string>
+    <string name="permission_fragment_write_external_storage">存储空间</string>
+
+    <string name="permission_fragment_dialog_title">需要权限</string>
+    <string name="permission_fragment_dialog_message">在设置中允许“%1$s”权限</string>
+    <string name="permission_fragment_dialog_positive">设置</string>
+    <string name="permission_fragment_dialog_negative">拒绝</string>
+</resources>

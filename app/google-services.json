@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "899946813508",
+    "project_id": "dev-ebnbin-inviscam",
+    "storage_bucket": "dev-ebnbin-inviscam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899946813508:android:3aff451b3d8ff95cadc411",
+        "android_client_info": {
+          "package_name": "dev.ebnbin.inviscam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_at6Qr0dTpzP-GbsZkdykB2AAWEFALWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-9007431044515157~3487794227"
+    }
+  ],
+  "configuration_version": "1"
+}

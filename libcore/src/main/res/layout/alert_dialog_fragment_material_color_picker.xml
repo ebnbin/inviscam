@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="12dp">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/full_chroma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_pink_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_red_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_orange_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_amber_full"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_lime_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_green_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_teal_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_cyan_full"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_light_blue_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_indigo_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_deep_purple_full"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_purple_full"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/half_chroma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_pink_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_red_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_orange_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_amber_half"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_lime_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_green_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_teal_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_cyan_half"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_light_blue_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_indigo_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_deep_purple_half"/>
+
+                <include
+                    layout="@layout/alert_dialog_fragment_material_color_picker_item"
+                    android:id="@+id/color_purple_half"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <com.google.android.material.materialswitch.MaterialSwitch
+            android:id="@+id/use_full_chroma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="8dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>

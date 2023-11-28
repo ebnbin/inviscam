@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">隐形相机</string>
+
+    <string name="first_time_hint">点击右下方的按钮打开相机服务。</string>
+
+    <string name="service_notification_title">隐形相机正在运行…</string>
+
+    <string name="camera_error">相机异常。</string>
+    <string name="camera_error_photo">拍照异常。</string>
+    <string name="camera_error_video">录像异常。</string>
+</resources>

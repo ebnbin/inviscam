@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_fragment_camera">Camera</string>
+    <string name="permission_fragment_post_notifications">Notifications</string>
+    <string name="permission_fragment_record_audio">Microphone</string>
+    <string name="permission_fragment_system_alert_window">Display over other apps</string>
+    <string name="permission_fragment_write_external_storage">Storage</string>
+
+    <string name="permission_fragment_dialog_title">Permission needed</string>
+    <string name="permission_fragment_dialog_message">Go to Settings to allow \"%1$s\" permission</string>
+    <string name="permission_fragment_dialog_positive">Settings</string>
+    <string name="permission_fragment_dialog_negative">Deny</string>
+</resources>

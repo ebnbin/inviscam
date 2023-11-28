@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">InvisCam</string>
+
+    <string name="first_time_hint">Tap the button at the bottom right to open the camera service.</string>
+
+    <string name="service_notification_title">InvisCam is running…</string>
+
+    <string name="camera_error">Camera error.</string>
+    <string name="camera_error_photo">Photo capture error.</string>
+    <string name="camera_error_video">Video capture error.</string>
+</resources>

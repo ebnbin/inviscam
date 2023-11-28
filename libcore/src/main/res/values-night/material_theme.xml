@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_pink_full">@color/material_pink_full_70</color>
+
+    <color name="material_red_full">@color/material_red_full_70</color>
+
+    <color name="material_orange_full">@color/material_orange_full_70</color>
+
+    <color name="material_amber_full">@color/material_amber_full_70</color>
+
+    <color name="material_lime_full">@color/material_lime_full_70</color>
+
+    <color name="material_green_full">@color/material_green_full_70</color>
+
+    <color name="material_teal_full">@color/material_teal_full_70</color>
+
+    <color name="material_cyan_full">@color/material_cyan_full_70</color>
+
+    <color name="material_light_blue_full">@color/material_light_blue_full_70</color>
+
+    <color name="material_indigo_full">@color/material_indigo_full_70</color>
+
+    <color name="material_deep_purple_full">@color/material_deep_purple_full_70</color>
+
+    <color name="material_purple_full">@color/material_purple_full_70</color>
+
+    <color name="material_pink_half">@color/material_pink_half_70</color>
+
+    <color name="material_red_half">@color/material_red_half_70</color>
+
+    <color name="material_orange_half">@color/material_orange_half_70</color>
+
+    <color name="material_amber_half">@color/material_amber_half_70</color>
+
+    <color name="material_lime_half">@color/material_lime_half_70</color>
+
+    <color name="material_green_half">@color/material_green_half_70</color>
+
+    <color name="material_teal_half">@color/material_teal_half_70</color>
+
+    <color name="material_cyan_half">@color/material_cyan_half_70</color>
+
+    <color name="material_light_blue_half">@color/material_light_blue_half_70</color>
+
+    <color name="material_indigo_half">@color/material_indigo_half_70</color>
+
+    <color name="material_deep_purple_half">@color/material_deep_purple_half_70</color>
+
+    <color name="material_purple_half">@color/material_purple_half_70</color>
+
+    <style name="MaterialTheme.Pink.Full.DayNight" parent="@style/MaterialTheme.Pink.Full.Dark"/>
+
+    <style name="MaterialTheme.Red.Full.DayNight" parent="@style/MaterialTheme.Red.Full.Dark"/>
+
+    <style name="MaterialTheme.Orange.Full.DayNight" parent="@style/MaterialTheme.Orange.Full.Dark"/>
+
+    <style name="MaterialTheme.Amber.Full.DayNight" parent="@style/MaterialTheme.Amber.Full.Dark"/>
+
+    <style name="MaterialTheme.Lime.Full.DayNight" parent="@style/MaterialTheme.Lime.Full.Dark"/>
+
+    <style name="MaterialTheme.Green.Full.DayNight" parent="@style/MaterialTheme.Green.Full.Dark"/>
+
+    <style name="MaterialTheme.Teal.Full.DayNight" parent="@style/MaterialTheme.Teal.Full.Dark"/>
+
+    <style name="MaterialTheme.Cyan.Full.DayNight" parent="@style/MaterialTheme.Cyan.Full.Dark"/>
+
+    <style name="MaterialTheme.LightBlue.Full.DayNight" parent="@style/MaterialTheme.LightBlue.Full.Dark"/>
+
+    <style name="MaterialTheme.Indigo.Full.DayNight" parent="@style/MaterialTheme.Indigo.Full.Dark"/>
+
+    <style name="MaterialTheme.DeepPurple.Full.DayNight" parent="@style/MaterialTheme.DeepPurple.Full.Dark"/>
+
+    <style name="MaterialTheme.Purple.Full.DayNight" parent="@style/MaterialTheme.Purple.Full.Dark"/>
+
+    <style name="MaterialTheme.Pink.Half.DayNight" parent="@style/MaterialTheme.Pink.Half.Dark"/>
+
+    <style name="MaterialTheme.Red.Half.DayNight" parent="@style/MaterialTheme.Red.Half.Dark"/>
+
+    <style name="MaterialTheme.Orange.Half.DayNight" parent="@style/MaterialTheme.Orange.Half.Dark"/>
+
+    <style name="MaterialTheme.Amber.Half.DayNight" parent="@style/MaterialTheme.Amber.Half.Dark"/>
+
+    <style name="MaterialTheme.Lime.Half.DayNight" parent="@style/MaterialTheme.Lime.Half.Dark"/>
+
+    <style name="MaterialTheme.Green.Half.DayNight" parent="@style/MaterialTheme.Green.Half.Dark"/>
+
+    <style name="MaterialTheme.Teal.Half.DayNight" parent="@style/MaterialTheme.Teal.Half.Dark"/>
+
+    <style name="MaterialTheme.Cyan.Half.DayNight" parent="@style/MaterialTheme.Cyan.Half.Dark"/>
+
+    <style name="MaterialTheme.LightBlue.Half.DayNight" parent="@style/MaterialTheme.LightBlue.Half.Dark"/>
+
+    <style name="MaterialTheme.Indigo.Half.DayNight" parent="@style/MaterialTheme.Indigo.Half.Dark"/>
+
+    <style name="MaterialTheme.DeepPurple.Half.DayNight" parent="@style/MaterialTheme.DeepPurple.Half.Dark"/>
+
+    <style name="MaterialTheme.Purple.Half.DayNight" parent="@style/MaterialTheme.Purple.Half.Dark"/>
+</resources>

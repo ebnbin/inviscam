@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Light" parent="@style/MaterialTheme.Indigo.Full.Light"/>
+    <style name="AppTheme.Dark" parent="@style/MaterialTheme.Indigo.Full.Dark"/>
+    <style name="AppTheme.DayNight" parent="@style/MaterialTheme.Indigo.Full.DayNight"/>
+</resources>

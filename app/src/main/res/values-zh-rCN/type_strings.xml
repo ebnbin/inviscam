@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capture_mode_photo">照片拍摄</string>
+    <string name="capture_mode_video">视频拍摄</string>
+    <string name="capture_mode_photo_and_video">照片和视频拍摄（可能导致相机异常，仅部分设备支持）</string>
+
+    <string name="fab_idle_timeout_immediately">立刻</string>
+    <string name="fab_idle_timeout_second_1">1 秒</string>
+    <string name="fab_idle_timeout_second_2">2 秒</string>
+    <string name="fab_idle_timeout_second_3">3 秒</string>
+    <string name="fab_idle_timeout_second_5">5 秒</string>
+    <string name="fab_idle_timeout_second_10">10 秒</string>
+    <string name="fab_idle_timeout_second_20">20 秒</string>
+    <string name="fab_idle_timeout_second_30">30 秒</string>
+    <string name="fab_idle_timeout_minute_1">1 分钟</string>
+    <string name="fab_idle_timeout_minute_2">2 分钟</string>
+    <string name="fab_idle_timeout_minute_3">3 分钟</string>
+    <string name="fab_idle_timeout_never">从不</string>
+
+    <string name="fab_long_press_extra_action_none">无</string>
+    <string name="fab_long_press_extra_action_hide_fab">隐藏悬浮按钮，直到长按抬起</string>
+    <string name="fab_long_press_extra_action_keep_awake">保持相机唤醒，直到长按抬起</string>
+    <string name="fab_long_press_extra_action_hide_fab_and_keep_awake">隐藏悬浮按钮且保持相机唤醒，直到长按抬起</string>
+
+    <string name="gesture_single_tap">单击</string>
+    <string name="gesture_double_tap">双击</string>
+    <string name="gesture_long_press">长按</string>
+    <string name="gesture_long_press_up">长按抬起</string>
+    <string name="gesture_double_long_press">双击并长按</string>
+    <string name="gesture_double_long_press_up">双击并长按抬起</string>
+
+    <string name="gesture_action_toggle_capture_mode">切换照片/视频拍摄模式</string>
+    <string name="gesture_action_take_picture">拍摄照片</string>
+    <string name="gesture_action_start_recording_video">开始录制视频</string>
+    <string name="gesture_action_stop_recording_video">停止录制视频</string>
+    <string name="gesture_action_toggle_recording_video">开始/停止录制视频</string>
+    <string name="gesture_action_capture">在照片拍摄模式下拍摄照片，在视频拍摄模式下开始/停止录制视频</string>
+    <string name="gesture_action_enter_sleep_mode">进入睡眠模式</string>
+    <string name="gesture_action_exit_sleep_mode">退出睡眠模式</string>
+    <string name="gesture_action_toggle_sleep_mode">切换睡眠模式</string>
+    <string name="gesture_action_open_app">回到应用</string>
+    <string name="gesture_action_stop_service">停止相机服务</string>
+    <string name="gesture_action_none">无</string>
+
+    <string name="preview_mode_preview_and_capture">预览和拍摄</string>
+    <string name="preview_mode_preview_only">仅预览</string>
+    <string name="preview_mode_capture_only">仅拍摄</string>
+
+    <string name="preview_ratio_match_screen">匹配屏幕比例</string>
+    <string name="preview_ratio_4_3">4:3</string>
+    <string name="preview_ratio_16_9">16:9</string>
+    <string name="preview_ratio_1_1">1:1</string>
+
+    <string name="preview_scale_action_window_size">改变预览窗口大小</string>
+    <string name="preview_scale_action_camera_zoom">改变相机缩放</string>
+    <string name="preview_scale_action_none">无</string>
+
+    <string name="profile_picture_in_picture">小窗拍摄</string>
+    <string name="profile_picture_in_picture_summary">在其他应用上层显示一个相机预览小窗口。你可以调整窗口的大小和位置，并通过浮动操作按钮控制相机拍摄。</string>
+    <string name="profile_wallpaper">动态壁纸</string>
+    <string name="profile_wallpaper_summary">使用后置摄像头的预览画面作为实时动态壁纸。你可以调整该预览画面的不透明度。</string>
+    <string name="profile_mirror">镜子</string>
+    <string name="profile_mirror_summary">长按悬浮操作按钮展示全屏镜子。</string>
+    <string name="profile_magnifier">放大器</string>
+    <string name="profile_magnifier_summary">使用捏合手势放大或缩小画面。</string>
+    <string name="profile_candid">相机抓拍</string>
+    <string name="profile_candid_summary">默认设置下，长按悬浮按钮激活相机并开始预览，抬起手指抓拍。拍摄完成后，相机会自动进入睡眠模式，等待下一次抓拍。</string>
+    <string name="profile_custom">自定义</string>
+    <string name="profile_custom_summary">根据你的需求自定义配置。</string>
+
+    <string name="profile_settings_preference_fab">悬浮按钮</string>
+    <string name="profile_settings_preference_camera">相机</string>
+    <string name="profile_settings_preference_preview">预览</string>
+
+    <string name="sleep_mode_timeout_immediately">立刻</string>
+    <string name="sleep_mode_timeout_second_1">1 秒</string>
+    <string name="sleep_mode_timeout_second_2">2 秒</string>
+    <string name="sleep_mode_timeout_second_3">3 秒</string>
+    <string name="sleep_mode_timeout_second_5">5 秒</string>
+    <string name="sleep_mode_timeout_second_10">10 秒</string>
+    <string name="sleep_mode_timeout_second_20">20 秒</string>
+    <string name="sleep_mode_timeout_second_30">30 秒</string>
+    <string name="sleep_mode_timeout_minute_1">1 分钟</string>
+    <string name="sleep_mode_timeout_minute_2">2 分钟</string>
+    <string name="sleep_mode_timeout_minute_3">3 分钟</string>
+    <string name="sleep_mode_timeout_never">从不</string>
+</resources>

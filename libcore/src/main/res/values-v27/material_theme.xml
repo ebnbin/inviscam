@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialTheme.Light" parent="@style/MaterialTheme.Base.Light">
+        <item name="android:navigationBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightNavigationBar">?attr/isLightTheme</item>
+    </style>
+
+    <style name="MaterialTheme.Dark" parent="@style/MaterialTheme.Base.Dark">
+        <item name="android:navigationBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightNavigationBar">?attr/isLightTheme</item>
+    </style>
+</resources>

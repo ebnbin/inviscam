@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="gesture_action_toggle_sleep_mode">@drawable/material_bedtime</drawable>
+    <drawable name="gesture_action_stop_service">@drawable/material_power_settings_new</drawable>
+
+    <drawable name="profile_picture_in_picture">@drawable/material_picture_in_picture</drawable>
+    <drawable name="profile_wallpaper">@drawable/material_wallpaper</drawable>
+    <drawable name="profile_mirror">@drawable/material_familiar_face_and_zone</drawable>
+    <drawable name="profile_magnifier">@drawable/material_zoom_in</drawable>
+    <drawable name="profile_candid">@drawable/material_screenshot_keyboard</drawable>
+    <drawable name="profile_custom">@drawable/material_camera</drawable>
+
+    <drawable name="profile_settings_preference_fab">@drawable/app_logo_24</drawable>
+    <drawable name="profile_settings_preference_camera">@drawable/material_photo_camera</drawable>
+    <drawable name="profile_settings_preference_preview">@drawable/material_picture_in_picture</drawable>
+</resources>
